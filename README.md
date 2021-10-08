@@ -1,5 +1,5 @@
 ### 👋 Hola, I'm Kirtikumar!
-- 💻 Tech Enthusiastic 👨‍💻
+- 💻 Tech Enthusiast 👨‍💻
 - I'm Currently Pursuing Btech in Computer Science.
 - Learn to Enjoy.
 - 👨‍💻 You can visit my website https://www.kirtikumarsolanki.live
