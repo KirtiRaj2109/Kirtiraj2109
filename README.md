@@ -1,10 +1,9 @@
-- 👋 Hi there, I'm Kirtikumar 
-
+### 👋 Hola, I'm Kirtikumar!
 - 💻 Tech Enthusiastic 👨‍💻
 - I'm Currently Pursuing Btech in Computer Science.
 - Learn to Enjoy.
 - 👨‍💻 You can visit my website https://www.kirtikumarsolanki.live
-
+###
 <!--
 **KirtiRaj2109/Kirtiraj2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
